@@ -7,4 +7,4 @@ console.log(num1)
 console.log(num2)
 const sum = num1 + num2 + 200;
 console.log(sum)
-alert(sum)
+alert(sum10)
